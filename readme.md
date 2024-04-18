@@ -1,5 +1,7 @@
 # Beginner Python Course
 
+Course Source code URL: https://github.com/grusingh/beginner-python-course
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -15,11 +17,11 @@
 
 ## Introduction
 - What is Python? 
-    - Python is a high-level, interpreted programming language known for its readability and versatility.
+    - [Python](https://www.python.org/) is a high-level, interpreted programming language known for its readability and versatility.
 - Why Python? 
-    - Python is widely used in various domains like web development, data analysis, machine learning, AI, automation, etc. It has a strong community and a rich ecosystem of libraries.
+    - [Python](https://www.python.org/) is widely used in various domains like web development, data analysis, machine learning, AI, automation, etc. It has a strong community and a rich ecosystem of libraries.
 - Installing Python 
-    - Guide on how to install Python on different operating systems.
+    - [Guide on how to install Python](https://realpython.com/installing-python/) on different operating systems.
 - Python IDEs 
     - Introduction to various Integrated Development Environments (IDEs) for Python like PyCharm, Jupyter Notebook, and VS Code.
 

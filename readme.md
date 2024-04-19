@@ -1,4 +1,4 @@
-# Beginner Python Course
+# Beginner Python Course in Punjabi
 
 Course Source code URL: https://github.com/grusingh/beginner-python-course
 
